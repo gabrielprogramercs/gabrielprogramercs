@@ -170,3 +170,6 @@
   style="padding-right: 10px;" 
   src="./pictures/casalfofinho.jpg"
 />
+
+
+![snake gif](https://github.com/gabrielprogramercs/gabrielprogramercs/blob/output/github-snake-dark.svg)
