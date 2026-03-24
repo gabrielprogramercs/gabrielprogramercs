@@ -157,6 +157,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielprogramercs&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+![snake gif](https://github.com/gabrielprogramercs/gabrielprogramercs/blob/output/github-snake-dark.svg)
 
 <br/><br/>
 
@@ -172,4 +173,4 @@
 />
 
 
-![snake gif](https://github.com/gabrielprogramercs/gabrielprogramercs/blob/output/github-snake-dark.svg)
+
