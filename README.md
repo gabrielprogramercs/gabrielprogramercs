@@ -1,12 +1,13 @@
+<br>
 <p align="center">
-<a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.demolab.com?font=Ariall&pause=1000&color=1FF704&center=true&multiline=true&width=435&lines=%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BBGabriel+Lopes%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Mono+One&size=32&pause=1000&color=1FF704&center=true&vCenter=true&width=435&lines=%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BBGabriel+Lopes%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
 </p>
 
+<h2 style="font-size: 20px">Hi, my name's Gabriel Fernando Lopes I'm 17y and I'm studying Computer Science at the Prof. Edson Antônio Velano University-Unifenas.</h2>
 
-**`Full-Stack Developer`**
 
-### <strong>  Hi, my name's Gabriel Fernando Lopes and I'm studying Computer Science at the Prof. Edson Antônio Velano University-Unifenas.
-</strong>
+
+
 <br/>
 
 <!-- Social icons section -->
@@ -34,7 +35,7 @@
 
 
 
-<p align="left">
+<p align="center">
     <a href="https://www.youtube.com/@Brkirby4630?sub_confirmation=1" target="_blank" rel="noopener noreferrer">
         <img 
             alt="youtube subscribers" 
@@ -73,7 +74,7 @@
 
 
 
- ### <strong>💻Programming Languages ​​And Technologies💻</strong>
+ ### <b>💻Knowledge:💻</b>
 
   <img 
     align="left" 
@@ -159,17 +160,21 @@
 
 
 
-### <Strong> 📊Statistics📊 </Strong>
+### <b> 📊Statistics📊 </b>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielprogramercs&show_icons=true&theme=dark&include_all_commits=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielprogramercs&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![VictorDolzan's](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gabrielprogramercs&theme=dark&layout=pie)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+<image width="880em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrielprogramercs&theme=dark">
+
 ![snake gif](https://github.com/gabrielprogramercs/gabrielprogramercs/blob/output/github-snake-dark.svg)
 
 <br/><br/>
 
-### <strong>🖼️Picture🖼️</strong>
+### <b>🖼️Picture🖼️</b>
 
 <img 
   align="left" 
