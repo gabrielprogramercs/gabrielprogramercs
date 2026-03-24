@@ -147,6 +147,13 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"
     style="filter: invert(100%);"
 />
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="100px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg"
+/>
 <br/><br/><br/><br/><br/><br/><br/>
 
 
