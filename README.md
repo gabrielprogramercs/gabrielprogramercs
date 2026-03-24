@@ -144,8 +144,8 @@
     alt="Git" 
     title="Git"
     width="100px" 
-    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"
+    style="filter: invert(100%);"
 />
 <br/><br/><br/><br/><br/><br/><br/>
 
