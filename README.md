@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ariall&pause=1000&color=1FF704&center=true&multiline=true&width=435&lines=%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BBGabriel+Lopes%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.demolab.com?font=Ariall&pause=1000&color=1FF704&center=true&multiline=true&width=435&lines=%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BBGabriel+Lopes%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
 </p>
 
 
@@ -11,17 +11,17 @@
 
 <!-- Social icons section -->
 <p align="center">
-<a href="https://api.whatsapp.com/send/?phone=5535984270094&text&type=phone_number&app_absent=0"><img width="50px" alt="Youtube" title="Whatsapp" src="https://i.imgur.com/GWcs9Dm.png" /></a>
+<a href="https://api.whatsapp.com/send/?phone=5535984270094&text&type=phone_number&app_absent=0" target="_blank" rel="noopener noreferrer"><img width="50px" alt="Youtube" title="Whatsapp" src="https://i.imgur.com/GWcs9Dm.png" /></a>
 &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.youtube.com/@brkirby4630"><img width="70px" alt="Youtube" title="Youtube" src="https://i.imgur.com/7DxD39S.png" /></a>
+  <a href="https://www.youtube.com/@brkirby4630" target="_blank" rel="noopener noreferrer"><img width="70px" alt="Youtube" title="Youtube" src="https://i.imgur.com/7DxD39S.png" /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/gabriel-lopes-82b911308/"><img width="50px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/hzBiiM5.png"></a>
+  <a href="https://www.linkedin.com/in/gabriel-lopes-82b911308/" target="_blank" rel="noopener noreferrer"><img width="50px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/hzBiiM5.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/_gabriel.fernando.lopes.56._/" alt="Discord" title="Instagram"><img width="50px" src="https://i.imgur.com/2sUAzLf.png"/></a>
+  <a href="https://www.instagram.com/_gabriel.fernando.lopes.56._/" alt="Discord" title="Instagram" target="_blank" rel="noopener noreferrer"><img width="50px" src="https://i.imgur.com/2sUAzLf.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/tBrJmrhQ" alt="Discord" title="Discord"><img width="50px" src="https://i.imgur.com/iXb26SA.png"/></a>
+  <a href="https://discord.gg/tBrJmrhQ" alt="Discord" title="Discord"><img width="50px" src="https://i.imgur.com/iXb26SA.png" target="_blank" rel="noopener noreferrer"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://steamcommunity.com/profiles/76561198441901677/" alt="Discord" title="Steam"><img width="50px" src="https://i.imgur.com/ac3Rumy.png"/></a>
+  <a href="https://steamcommunity.com/profiles/76561198441901677/" alt="Discord" title="Steam"><img width="50px" src="https://i.imgur.com/ac3Rumy.png" target="_blank" rel="noopener noreferrer"/></a>
 <!--   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
 </p>
@@ -35,28 +35,28 @@
 
 
 <p align="left">
-    <a href="https://www.youtube.com/@Brkirby4630?sub_confirmation=1">
+    <a href="https://www.youtube.com/@Brkirby4630?sub_confirmation=1" target="_blank" rel="noopener noreferrer">
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCXUc_V9fuGz8n7sVgId5ITw?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
-    <a href="https://www.youtube.com/@Brkirby4630">
+    <a href="https://www.youtube.com/@Brkirby4630" target="_blank" rel="noopener noreferrer">
         <img 
             alt="youtube views" 
             title="Vizualizações no YouTube" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCXUc_V9fuGz8n7sVgId5ITw?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
         />
     </a> 
-    <a href="https://github.com/gabrielprogramercs?tab=stars">
+    <a href="https://github.com/gabrielprogramercs?tab=stars" target="_blank" rel="noopener noreferrer">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/gabrielprogramercs?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/gabrielprogramercs">
+    <a href="https://github.com/gabrielprogramercs" target="_blank" rel="noopener noreferrer">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
