@@ -1,9 +1,8 @@
-<br>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Mono+One&size=32&pause=1000&color=1FF704&center=true&vCenter=true&width=435&lines=%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BBGabriel+Lopes%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
 </p>
 
-<h2 style="font-size: 20px">Hi, my name's Gabriel Fernando Lopes I'm 17y and I'm studying Computer Science at the Prof. Edson Antônio Velano University-Unifenas.</h2>
+## <h1 style="font-size : 20px"> Hi, my name's Gabriel Fernando Lopes I'm 17y and I'm studying Computer Science at the Prof. Edson Antônio Velano University-Unifenas.</h1>
 
 
 
@@ -74,7 +73,7 @@
 
 
 
- ### <b>💻Knowledge:💻</b>
+ ## <h1 style="font-size : 20px">💻Knowledge:💻</b>
 
   <img 
     align="left" 
@@ -160,7 +159,7 @@
 
 
 
-### <b> 📊Statistics📊 </b>
+# <h1 style="font-size : 30px"> 📊Statistics📊 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielprogramercs&show_icons=true&theme=dark&include_all_commits=true)
 
@@ -174,7 +173,7 @@
 
 <br/><br/>
 
-### <b>🖼️Picture🖼️</b>
+# <h1 style="font-size : 60px">🖼️Picture🖼️
 
 <img 
   align="left" 
