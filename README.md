@@ -63,7 +63,7 @@
     width="100px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
-<img src = "./pictures/C-Development.webp" align = "right" width= "900px">
+<img src = "./pictures/C-Development.webp" align = "right" width= "700px">
 <br/><br/><br/><br/><br/><br/>
 <img 
     align="left" 
