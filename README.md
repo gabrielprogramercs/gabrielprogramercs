@@ -6,7 +6,7 @@
  <br/>
  <h1 style="font-size : 20px"> |•🔥 Discipline-driven and focused on growth🔥•|</h1>
  <br/>
- <h1 style="font-size : 20px"> |•⚙️ Building real-world projects and improving every day⚙️•| </h1>
+ <h1 style="font-size : 20px"> |•⚙️ Building projects and improving myself every day⚙️•| </h1>
 
 
 
