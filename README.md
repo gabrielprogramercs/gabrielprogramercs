@@ -45,8 +45,9 @@
 
 
 
-
-  <h1 align="center", style="font-size : 20px" >💻Stack:💻 </h1>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Mono+One&size=32&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=%F0%9F%92%BBStack%3A%F0%9F%92%BB" alt="Typing SVG" /></a>
+  </p>
 
   <img 
     align="left" 
@@ -132,8 +133,9 @@
 <br/><br/><br/><br/><br/><br/><br/>
 
 
-
- <h1 align="center", style="font-size : 30px"> 📊Statistics📊 </h1>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Mono+One&size=32&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=%F0%9F%93%8AStats%3A%F0%9F%93%8A" alt="Typing SVG" /></a>
+ </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielprogramercs&show_icons=true&theme=dark)
 
@@ -147,7 +149,9 @@
 
 <br/><br/>
 
- <h1 align="center", style="font-size : 60px">🖼️Picture🖼️ </h1>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Mono+One&size=32&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=%F0%9F%96%BC%EF%B8%8FPicture%3A%F0%9F%96%BC%EF%B8%8F" alt="Typing SVG" /></a>
+ </p>
 
 <img 
   align="left" 
