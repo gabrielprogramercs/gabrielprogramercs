@@ -46,7 +46,7 @@
 
 
 
-  <h1 align="center", style="font-size : 20px" >💻Knowledge:💻 </h1>
+  <h1 align="center", style="font-size : 20px" >💻Stack:💻 </h1>
 
   <img 
     align="left" 
