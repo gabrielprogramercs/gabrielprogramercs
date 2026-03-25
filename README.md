@@ -141,7 +141,7 @@
 
 [![VictorDolzan's](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gabrielprogramercs&theme=dark&layout=pie)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-<image width="880em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrielprogramercs&theme=dark">
+<image width="880em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrielprogramercs&theme=dark&include_all_commits=true">
 
 ![snake gif](https://github.com/gabrielprogramercs/gabrielprogramercs/blob/output/github-snake-dark.svg)
 
