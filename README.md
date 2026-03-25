@@ -135,7 +135,7 @@
 
  <h1 align="center", style="font-size : 30px"> 📊Statistics📊 </h1>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielprogramercs&show_icons=true&theme=dark&include_all_commits=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielprogramercs&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielprogramercs&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
