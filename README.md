@@ -4,9 +4,9 @@
 
  <h1 style="font-size : 20px"> |•💻 Computer Science Student 💻•|•🧠Future Full-Stack Dev🧠|</h1>
  <br/>
- <h1 style="font-size : 20px"> |•🔥 Discipline-driven and focused on growth🔥•|</h1>
+ <h1 style="font-size : 20px"> |•🔥 Discipline-Driven And Focused On Growth🔥•|</h1>
  <br/>
- <h1 style="font-size : 20px"> |•⚙️ Building projects and improving myself every day⚙️•| </h1>
+ <h1 style="font-size : 20px"> |•⚙️ Building Projects And Improving Myself Every Day⚙️•| </h1>
 
 
 
