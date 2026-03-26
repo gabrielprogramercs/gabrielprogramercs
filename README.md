@@ -137,13 +137,12 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Mono+One&size=32&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=%F0%9F%93%8AStats%3A%F0%9F%93%8A" alt="Typing SVG" /></a>
  </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielprogramercs&show_icons=true&theme=dark)
+<image width="880em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrielprogramercs&theme=dark">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielprogramercs&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![VictorDolzan's](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gabrielprogramercs&theme=dark&layout=pie)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![gabrielprogramercs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gabrielprogramercs&theme=dark&layout=pie)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-<image width="880em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrielprogramercs&theme=dark">
 
 ![snake gif](https://github.com/gabrielprogramercs/gabrielprogramercs/blob/output/github-snake-dark.svg)
 
