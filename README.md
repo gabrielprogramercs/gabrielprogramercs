@@ -12,8 +12,10 @@
 
 <br/><br/>
 
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Mono+One&size=16&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=%F0%9F%8C%90Social+Networking+Platforms%3A%F0%9F%8C%90" alt="Typing SVG" /></a>
+</p>
 
-<!-- Social icons section -->
 <p align="center">
 <a href="https://api.whatsapp.com/send/?phone=5535984270094&text&type=phone_number&app_absent=0" target="_blank" rel="noopener noreferrer"><img width="70px" alt="Youtube" title="Whatsapp" src="https://i.imgur.com/GWcs9Dm.png" /></a>
 &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -26,16 +28,13 @@
   <a href="https://discord.gg/tBrJmrhQ" alt="Discord" title="Discord"><img width="70px" src="https://i.imgur.com/iXb26SA.png" target="_blank" rel="noopener noreferrer"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://steamcommunity.com/profiles/76561198441901677/" alt="Discord" title="Steam"><img width="70px" src="https://i.imgur.com/ac3Rumy.png" target="_blank" rel="noopener noreferrer"/></a>
-<!--   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
+
 </p>
 
 <br/><br/>
 
 
-<!-- Social badges section -->
-<!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
-<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
+
 
 
 
@@ -146,7 +145,7 @@
 
 ![snake gif](https://github.com/gabrielprogramercs/gabrielprogramercs/blob/output/github-snake-dark.svg)
 
-<br/><br/>
+<br/>
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Mono+One&size=32&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=%F0%9F%96%BC%EF%B8%8FPicture%3A%F0%9F%96%BC%EF%B8%8F" alt="Typing SVG" /></a>
