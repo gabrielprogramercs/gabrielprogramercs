@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Mono+One&size=32&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BBGabriel+Lopes%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
 </p>
 
- <h1 style="font-size : 20px"> |•💻 Computer Science Student 💻•|•🧠Future Full-Stack Dev🧠|</h1>
+ <h1 style="font-size : 20px"> |•💻 𝘾𝙤𝙢𝙥𝙪𝙩𝙚𝙧 𝙎𝙘𝙞𝙚𝙣𝙘𝙚 𝙎𝙩𝙪𝙙𝙚𝙣𝙩 💻•|•🧠Future Full-Stack Dev🧠|</h1>
  <br/>
  <h1 style="font-size : 20px"> |•🔥 Discipline-Driven And Focused On Growth🔥•|</h1>
  <br/>
