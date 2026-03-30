@@ -138,7 +138,7 @@
 
 <image width="880em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrielprogramercs&theme=dark">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielprogramercs&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![gabrielprogramercs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gabrielprogramercs&theme=dark&layout=pie)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
