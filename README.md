@@ -136,11 +136,12 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Mono+One&size=32&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=%F0%9F%93%8AStats%3A%F0%9F%93%8A" alt="Typing SVG" /></a>
  </p>
 
-<image width="880em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrielprogramercs&theme=dark">
+<image width="880em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrielprogramercs&theme=dark&title_color=00d1ff&icon_color=00d1ff&hide_border=true&bg_color=00000000">
 
 
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabrielprogramercs&layout=compact&theme=tokyonight&title_color=00d1ff&icon_color=00d1ff&hide_border=true&bg_color=00000000" />
 
-[![gabrielprogramercs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gabrielprogramercs&theme=dark&layout=pie)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<img width="450px" src="https://github-readme-streak-stats-fawn-three.vercel.app?user=gabrielprogramercs&theme=tokyonight&fire=00d1ff&ring=00d1ff&currStreakLabel=00d1ff&background=00000000&hide_border=true&stroke=00d1ff" alt="PkLavc Streak" />
 
 
 ![snake gif](https://github.com/gabrielprogramercs/gabrielprogramercs/blob/output/github-snake-dark.svg)
