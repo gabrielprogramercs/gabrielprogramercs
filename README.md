@@ -2,6 +2,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Mono+One&size=32&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BBGabriel+Lopes%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
 </p>
 
+<br/><br/><br/><br/>
+
  <h1 style="font-size : 20px"> |•💻𝘾𝙤𝙢𝙥𝙪𝙩𝙚𝙧 𝙎𝙘𝙞𝙚𝙣𝙘𝙚 𝙎𝙩𝙪𝙙𝙚𝙣𝙩💻•|•🧠𝙁𝙪𝙩𝙪𝙧𝙚 𝙁𝙎 𝘿e𝙫🧠•|</h1>
  <br/>
  <h1 style="font-size : 20px"> |•🔥 𝘿𝙞𝙨𝙘𝙞𝙥𝙡𝙞𝙣𝙚-𝘿𝙧𝙞𝙫𝙚𝙣 𝘼𝙣𝙙 𝙁𝙤𝙘𝙪𝙨𝙚𝙙 𝙊𝙣 𝙂𝙧𝙤𝙬𝙩𝙝🔥•|</h1>
@@ -10,11 +12,12 @@
 
 
 
-<br/><br/>
+<br/><br/><br/><br/>
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Mono+One&size=16&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=%F0%9F%8C%90Social+Networking+Platforms%3A%F0%9F%8C%90" alt="Typing SVG" /></a>
 </p>
+<br/><br/>
 
 <p align="center">
 <a href="https://api.whatsapp.com/send/?phone=5535984270094&text&type=phone_number&app_absent=0" target="_blank" rel="noopener noreferrer"><img width="70px" alt="Youtube" title="Whatsapp" src="https://i.imgur.com/GWcs9Dm.png" /></a>
@@ -43,7 +46,7 @@
 
 
 
-
+<br/><br/><br/><br/>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Mono+One&size=32&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=%F0%9F%92%BBStack%3A%F0%9F%92%BB" alt="Typing SVG" /></a>
   </p>
