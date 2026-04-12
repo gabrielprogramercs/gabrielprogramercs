@@ -79,24 +79,7 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-<br/><br/><br/><br/><br/><br/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="100px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<br/><br/><br/><br/><br/><br/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="100px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
+
 <br/><br/><br/><br/><br/><br/>
 <img 
     align="left" 
