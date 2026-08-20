@@ -131,7 +131,6 @@
 
 <img width="450px" src="https://github-readme-streak-stats-fawn-three.vercel.app?user=gabrielprogramercs&theme=tokyonight&fire=00d1ff&ring=00d1ff&currStreakLabel=00d1ff&background=00000000&hide_border=true&stroke=00d1ff" alt="PkLavc Streak" />
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabrielprogramercs&layout=compact&theme=tokyonight&title_color=00d1ff&icon_color=00d1ff&hide_border=true&bg_color=00000000" />
 
 
 
