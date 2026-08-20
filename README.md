@@ -152,17 +152,7 @@
   title="Git"
   width="1000px" 
   style="padding-right: 10px;" 
-  src="./pictures/casalfofinho.jpg"/>
+  src="https://github.com/user-attachments/assets/d5e05a80-e164-4153-a42c-64820504abf2" />
+  
   
 
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Mono+One&size=50&duration=3000&pause=1000&color=F7F7F7&vCenter=true&width=435&lines=%E2%9D%93Others%3A%E2%9D%93" alt="Typing SVG" /></a>
- </p>
- <br/>
-<br/>
- 
-<picture>
-  
-</picture>
-
-![snake gif](https://github.com/gabrielprogramercs/gabrielprogramercs/blob/output/github-snake-dark.svg)
