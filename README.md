@@ -26,7 +26,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/gabriel-lopes-82b911308/" target="_blank" rel="noopener noreferrer"><img width="80px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/hzBiiM5.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/_gabriel.fernando.lopes.56._/" alt="Discord" title="Instagram" target="_blank" rel="noopener noreferrer"><img width="75px" src="https://i.imgur.com/2sUAzLf.png"/></a>
+  <a href="https://www.instagram.com/gabrielfernandolopes_/" alt="Discord" title="Instagram" target="_blank" rel="noopener noreferrer"><img width="75px" src="https://i.imgur.com/2sUAzLf.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/tBrJmrhQ" alt="Discord" title="Discord"><img width="70px" src="https://i.imgur.com/iXb26SA.png" target="_blank" rel="noopener noreferrer"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
